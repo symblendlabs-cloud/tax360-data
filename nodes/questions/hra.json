@@ -6,7 +6,7 @@
   "title": "How is HRA exemption calculated?",
   "question": "How much HRA exemption can a salaried employee claim for FY 2026-27?",
   "slug": "hra-exemption-calculation",
-  "shortAnswer": "HRA exemption is the least of: actual HRA received, rent paid minus 10% of basic salary, or 50%/40% of basic salary (metro/non-metro).",
+  "shortAnswer": "THIS IS LIVE FROM GITHUB!",
   "fullAnswer": "Under Section 10(13A), a salaried employee receiving HRA can claim exemption equal to the minimum of three values: (1) actual HRA received from employer, (2) rent paid minus 10% of basic salary + DA, (3) 50% of basic + DA if living in a metro city (Delhi, Mumbai, Kolkata, Chennai), otherwise 40%. Only available under the old tax regime.",
   "example": {
     "inputs": { "basic": 600000, "hraReceived": 240000, "rentPaid": 300000, "metro": true },
